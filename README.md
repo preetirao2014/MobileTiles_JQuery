@@ -3,7 +3,7 @@ A mobile tiles app using JQuery
 
 ## Important
 
-To run the app, pls click the 'dev mode' batch file to launch chorme in '--allow-file-access-from-files' mode. This is to prevent CORS issues that prevents the successful load of the contents of the JSON file via AJAX.
+To run the app, pls click the 'dev mode' batch file to launch chrome in '--allow-file-access-from-files' mode. This is to prevent CORS issues that prevents the successful load of the contents of the JSON file via AJAX.
 
 ## About the app
 
